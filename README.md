@@ -1,6 +1,6 @@
 # Nebular Automata
 ### A program for visualizing an interesting mathematical idea
-## It's a C++ version of my original project on Python called [Nebular Automata](https://github.com/8nhuman8/nebular-automata)
+#### It's a C++ version of my original project on Python called [Nebular Automata](https://github.com/8nhuman8/nebular-automata)
 
 ![intro_image_1](docs/README/intro_images/1.png)
 ![intro_image_2](docs/README/intro_images/2.png)
