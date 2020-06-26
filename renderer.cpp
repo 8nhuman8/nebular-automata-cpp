@@ -1,5 +1,7 @@
 ﻿#include <iostream>
 
+#include <CImg.h>
+
 
 int main() {
   std::cout << "Hello World!\n";
